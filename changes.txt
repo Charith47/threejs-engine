@@ -1,0 +1,4 @@
+// set up the object loader - done
+// set up the stats gui - done
+// set up ray caster
+// set up the dat gui
